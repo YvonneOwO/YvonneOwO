@@ -45,3 +45,6 @@
 - 📫 Email: *yang.yuyu@northeastern.edu*
 
 Thanks for stopping by! 🤗
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuyunyang&label=Profile%20views&color=pink)
